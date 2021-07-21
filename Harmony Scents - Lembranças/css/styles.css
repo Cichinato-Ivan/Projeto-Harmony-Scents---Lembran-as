@@ -1,0 +1,37 @@
+body{
+    background-color: #e8c3de;
+}
+
+.logo{
+    border-radius: 50%;
+}
+
+/* estilos seção home */
+
+.img-s2{
+    width: 400px;
+    padding-top: 15px;
+    border-radius: 350%;
+}
+
+/* estilos seção sobre */
+.sabart{
+    width: 400px;
+    height: 400px;
+    padding-top: 15px;
+    border-radius: 10%;
+}
+
+/* estilização dos produtos */
+
+#produtos{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+#produtos img {
+    width: 200px;
+    border-radius: 20%;
+    padding: 20px;
+}
