@@ -7,19 +7,22 @@ body{
 }
 
 /* estilos seção home */
-
-.img-s2{
-    width: 400px;
-    padding-top: 15px;
-    border-radius: 350%;
+#home {
+    width: 100%;
+    height: 300px;
 }
 
 /* estilos seção sobre */
+#sobre{
+    line-height: 1.2;
+}
+
 .sabart{
     width: 400px;
     height: 400px;
     padding-top: 15px;
     border-radius: 10%;
+    line-height: 1.2rem;
 }
 
 /* estilização dos produtos */
@@ -34,4 +37,8 @@ body{
     width: 200px;
     border-radius: 20%;
     padding: 20px;
+}
+footer{
+    position:relative;
+    width: 100%;
 }
