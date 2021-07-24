@@ -1,4 +1,4 @@
-const items = [
+/*const items = [
     {
         id:0,
         nome:'Caneca Stech',
@@ -63,4 +63,4 @@ for(var i = 0; i< links.length; i++){
         return false;
     })
 }
-
+*/

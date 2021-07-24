@@ -27,18 +27,20 @@ body{
 
 /* estilização dos produtos */
 
-#produtos{
+.produtos{
     max-width: 900px;
     margin: 0 auto;
     padding: 0 2%;
+    text-align: center;
 }
 
-#produtos img {
+.produtos img {
     width: 200px;
     border-radius: 20%;
     padding: 20px;
 }
+
 footer{
-    position:relative;
+    position: absolute;
     width: 100%;
 }
